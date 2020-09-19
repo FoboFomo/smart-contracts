@@ -36,14 +36,14 @@ Liquidity pools
 
 [Fobo pools](https://fobofomo.com/farms) allow liquidity providers to add their tokens to liquidity pools and earn FOBO.
 
---------------------------------------------------------------------------------------------------------------------------------------------
-Fobo-ETH Uniswap Pool | [0xc9e920cc56763b342ed41e4570039377170ad6de](https://etherscan.io/address/0xc9e920cc56763b342ed41e4570039377170ad6de)
-                      | 
-USDT-ETH Uniswap Pool | [0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852](https://etherscan.io/address/0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852)
-                      | 
-USDC-ETH Uniswap Pool | [0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc](https://etherscan.io/address/0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc)
-                      | 
-DAI-ETH Uniswap Pool | [0xa478c2975ab1ea89e8196811f51a7b7ade33eb11](https://etherscan.io/address/0xa478c2975ab1ea89e8196811f51a7b7ade33eb11)
+
+Fobo-ETH Uniswap Pool : [0xc9e920cc56763b342ed41e4570039377170ad6de](https://etherscan.io/address/0xc9e920cc56763b342ed41e4570039377170ad6de)
+                       
+USDT-ETH Uniswap Pool : [0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852](https://etherscan.io/address/0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852)
+                       
+USDC-ETH Uniswap Pool : [0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc](https://etherscan.io/address/0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc)
+                       
+DAI-ETH Uniswap Pool : [0xa478c2975ab1ea89e8196811f51a7b7ade33eb11](https://etherscan.io/address/0xa478c2975ab1ea89e8196811f51a7b7ade33eb11)
 
 SUSD-ETH Uniswap Pool: [0xf80758ab42c3b07da84053fd88804bcb6baa4b5c](https://etherscan.io/address/0xf80758ab42c3b07da84053fd88804bcb6baa4b5c)
 
