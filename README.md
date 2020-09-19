@@ -1,4 +1,4 @@
-h1 FoboFomo Finance
+FoboFomo Finance
 ===================
 🌈 80 FOBO per block reward forever
 
@@ -6,14 +6,11 @@ h1 FoboFomo Finance
 
 🌈 0% dev fee
 
-h2 Dev fee
+Dev fee
 -----------
 We all saw how DeFi project teams sold their tokens and project prices fell. 
-
 We want to protect the community from the influence of the creator. 
-
 FoboFomo innovation - 0% developer commission forever. 
-
 It means complete freedom and protection for the community.
 
 ---
@@ -26,7 +23,7 @@ Fobo pools (fobofomo.com/farms) allow liquidity providers to add their tokens to
 
 ---
 
-h2 Fobo smart contracts
+Fobo smart contracts
 -----------------------
 
 Fobo Token: [0xF6C5a93c5dDc61b50e80e53081E09076Ebc7b25B](https://etherscan.io/address/0xF6C5a93c5dDc61b50e80e53081E09076Ebc7b25B)
