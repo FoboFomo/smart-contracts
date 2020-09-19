@@ -6,7 +6,7 @@ FoboFomo Finance
 
 🌈 0% dev fee
 
-Web
+Website: [FoboFomo.finance](https://fobofomo.finance)
 
 Dev fee
 -----------
