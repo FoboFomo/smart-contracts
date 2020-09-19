@@ -46,17 +46,17 @@ Liquidity pools
                        
 * USDC-ETH Uniswap Pool : [0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc](https://etherscan.io/address/0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc)
                        
-DAI-ETH Uniswap Pool : [0xa478c2975ab1ea89e8196811f51a7b7ade33eb11](https://etherscan.io/address/0xa478c2975ab1ea89e8196811f51a7b7ade33eb11)
+* DAI-ETH Uniswap Pool : [0xa478c2975ab1ea89e8196811f51a7b7ade33eb11](https://etherscan.io/address/0xa478c2975ab1ea89e8196811f51a7b7ade33eb11)
 
-SUSD-ETH Uniswap Pool: [0xf80758ab42c3b07da84053fd88804bcb6baa4b5c](https://etherscan.io/address/0xf80758ab42c3b07da84053fd88804bcb6baa4b5c)
+* SUSD-ETH Uniswap Pool: [0xf80758ab42c3b07da84053fd88804bcb6baa4b5c](https://etherscan.io/address/0xf80758ab42c3b07da84053fd88804bcb6baa4b5c)
 
-UMA-ETH Uniswap Pool: [0x88d97d199b9ed37c29d846d00d443de980832a22](https://etherscan.io/address/0x88d97d199b9ed37c29d846d00d443de980832a22)
+* UMA-ETH Uniswap Pool: [0x88d97d199b9ed37c29d846d00d443de980832a22](https://etherscan.io/address/0x88d97d199b9ed37c29d846d00d443de980832a22)
 
-BAND-ETH Uniswap Pool: [0xf421c3f2e695c2d4c0765379ccace8ade4a480d9](https://etherscan.io/address/0xf421c3f2e695c2d4c0765379ccace8ade4a480d9)
+* BAND-ETH Uniswap Pool: [0xf421c3f2e695c2d4c0765379ccace8ade4a480d9](https://etherscan.io/address/0xf421c3f2e695c2d4c0765379ccace8ade4a480d9)
 
-LINK-ETH Uniswap Pool: [0xa2107fa5b38d9bbd2c461d6edf11b11a50f6b974](https://etherscan.io/address/0xa2107fa5b38d9bbd2c461d6edf11b11a50f6b974)
+* LINK-ETH Uniswap Pool: [0xa2107fa5b38d9bbd2c461d6edf11b11a50f6b974](https://etherscan.io/address/0xa2107fa5b38d9bbd2c461d6edf11b11a50f6b974)
 
-AMPL-ETH Uniswap Pool: [0xc5be99a02c6857f9eac67bbce58df5572498f40c](https://etherscan.io/address/0xc5be99a02c6857f9eac67bbce58df5572498f40c)
+* AMPL-ETH Uniswap Pool: [0xc5be99a02c6857f9eac67bbce58df5572498f40c](https://etherscan.io/address/0xc5be99a02c6857f9eac67bbce58df5572498f40c)
 
 
 
